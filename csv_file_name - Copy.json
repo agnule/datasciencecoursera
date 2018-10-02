@@ -1,0 +1,1 @@
+{ "map": "worldLow", "areas": [ {"ID": "GB", "value": "No restrictions anticipated, function set Data Set is allowed."}, {"ID": "MY", "value": "No data sharing is allowed."}, {"ID": "AU", "value": "Strict Data Privacy rules and regulations, but some data is allowed to be shared."}, {"ID": "BM", "value": "Limited Data Privacy laws."} ] }
